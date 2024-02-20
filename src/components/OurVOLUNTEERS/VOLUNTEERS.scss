@@ -1,0 +1,152 @@
+#VOLUNTEERS{
+  min-height: 100VH;
+    background: linear-gradient( rgba(0,0,0,0), rgba(0,0,0,0) ), url(../../Assets/VOLUNTEERS.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-size: cover;
+    overflow: hidden;
+    padding: 6rem 0;
+    .text_volunteers{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        margin-top: 8rem;
+        padding: 0 5rem;
+        color: white;
+        text-align: center;
+        h4{
+            font-size: 1.2;
+            font-weight: 400;
+
+        }
+        h2{
+            font-size: 3.1rem;
+            line-height: 60px;
+            font-weight: 700;
+        }
+        span{
+            display: inline-block;
+            width: 80px;
+            height: 3px;
+            margin-top: 0px;
+            position: relative;
+            top: -3px;
+            background: #EF3D32;
+        }
+    }
+    .theme-custom-box-animation {
+        position: relative;
+        top: 0;
+        -webkit-transition: all 0.2s ease-out;
+        -moz-transition: all 0.2s ease-out;
+        -o-transition: all 0.2s ease-out;
+        transition: all 0.2s ease-out;
+    }
+    
+    .theme-custom-box-shadow {
+        border: 0px solid transparent;
+        box-shadow: 0 1px 5px rgba(0, 0, 0, 0.07);
+        -webkit-transition: all 0.2s ease-out;
+        -moz-transition: all 0.2s ease-out;
+        -o-transition: all 0.2s ease-out;
+        transition: all 0.2s ease-out;
+    }
+   
+    .team-layout-1{
+        margin-bottom: 24px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        border: 1px solid #EEE;
+        margin-top: 3rem;
+       
+        
+        .img_team{
+            color: #4E4E4E;
+            text-decoration: none;
+            -webkit-transition: all 0.3s ease-out;
+            -moz-transition: all 0.3s ease-out;
+            -o-transition: all 0.3s ease-out;
+            transition: all 0.3s ease-out;
+            img{
+                vertical-align: middle;
+                width: 100%;
+            }
+        }
+        figure{
+            margin: 0;
+        }
+        .team-info{
+            background: #fcfcfc;
+            padding: 5px 12px;
+            text-align: center;
+            h3{
+                font-family: 'Montserrat', sans-serif;
+                text-transform: uppercase;
+                margin: 15px 0 0 0;
+                font-size: 22px;
+                letter-spacing: 0.03em;
+                font-weight: 700;
+                color: #1A1A1A;
+            }
+            h4{
+                font-family: 'Montserrat', sans-serif;
+                 color: #808080;
+                 text-transform: uppercase;
+                  font-size: 18px;
+                letter-spacing: 0.03em;
+                 font-weight: 600;
+            }
+        }
+        .team-content{
+            background: #F8F9FA;
+            .team-social-share{
+                border-top: 1px solid #EEE;
+                margin: 0px 0px;
+                padding: 15px;
+                .rectangle{
+                    display: inline-block;
+                    height: 40px;
+                    line-height: 40px;
+                    margin: 0 2px;
+                    text-align: center;
+                    width: 40px;
+                    color: #EF3D32;
+                    border: 1px solid #EEE;
+                    background: #FFFFFF;
+                }
+            }
+        }
+    
+    }
+    .margin-top-24 {
+        margin-top: 24px !important;
+    }
+    .btn-theme {
+        border: 0px;
+        background: #EF3D32;
+        color: #FFFFFF;
+        display: inline-block;
+        line-height: 32px;
+        font-size: 18px;
+        font-weight: 600;
+        padding: 16px 36px;
+        position: relative;
+        text-transform: uppercase;
+        -webkit-transition: 'all' '0.5s' ease-out;
+        -moz-transition: 'all' '0.5s' ease-out;
+        -o-transition: 'all' '0.5s' ease-out;
+        transition: 'all' '0.5s' ease-out;
+        margin-bottom: 0;
+        letter-spacing: 0em;
+        overflow: hidden;
+        -webkit-border-radius: 0px;
+        -moz-border-radius: 0px;
+        border-radius: 0px;
+        -webkit-background-clip: padding-box;
+        -moz-background-clip: padding;
+        background-clip: padding-box;
+    }
+}

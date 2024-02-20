@@ -1,0 +1,379 @@
+{
+  "users": [
+    {
+      "name": "Abdallah mohamed",
+      "email": "b01159440235@gmail.com",
+      "password": "Aa19712001",
+      "phone": "01156859700",
+      "date": "2001-06-10",
+      "id": 1
+    },
+    {
+      "name": "Abdallah mohamed",
+      "email": "abdallmo565@gmail.com",
+      "password": "Aa19712001",
+      "phone": "01156859700",
+      "date": "2023-06-11",
+      "id": 2
+    },
+    {
+      "name": "Abdallah mohamed",
+      "email": "abdallmo565@gmail.com",
+      "password": "Aa112233",
+      "phone": "01156859700",
+      "date": "2024-02-07",
+      "id": 3
+    },
+    {
+      "name": "Abdallah",
+      "email": "abdallah@gmail.com",
+      "password": "112233",
+      "phone": "011111111111111111111111",
+      "date": "2024-02-20",
+      "id": 4
+    },
+    {
+      "name": "Ahmed mohaed ",
+      "email": "Ahme@gmail.com",
+      "password": "112233",
+      "phone": "01000488599948",
+      "date": "2006-03-01",
+      "id": 5
+    }
+  ],
+  "Donors": [
+    {
+      "name": "Abdallah mohamed",
+      "email": "ad@gmail.com",
+      "condition": "Beneficiary",
+      "phone": "01156859700",
+      "date": "16/12/2023",
+      "city": "cairo",
+      "last_date": "month 10",
+      "blood_type": "A-",
+      "done": "on",
+      "id": 2
+    },
+    {
+      "name": "abdallah",
+      "email": "22esad@gmail.com",
+      "condition": "Donor",
+      "phone": "1111111111",
+      "date": "2024-01-18",
+      "city": "cairo",
+      "region": "masr-el-gdeda",
+      "last_date": "10/asx",
+      "blood_type": "B-",
+      "done": "on",
+      "id": 3
+    },
+    {
+      "name": "Abdallah mohamed",
+      "email": "abdallmo565@gmail.com",
+      "condition": "Donor",
+      "phone": "01156859700",
+      "date": "2024-02-07",
+      "city": "cairo",
+      "region": "masr-el-gdeda",
+      "last_date": "10/6/2023",
+      "blood_type": "A+",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "email": "abdallmo565@gmail.com",
+      "condition": "Donor",
+      "phone": "011111111111111111",
+      "date": "2024-02-19",
+      "city": "cairo",
+      "region": "masr-el-gdeda",
+      "last_date": "10/6/2023",
+      "blood_type": "O+",
+      "id": 5
+    },
+    {
+      "name": "Abdallah mohamed",
+      "email": "abdallmo565@gmail.com",
+      "condition": "Donor",
+      "phone": "01156859700",
+      "date": "2024-02-16",
+      "city": "cairo",
+      "region": "masr-el-gdeda",
+      "last_date": "10/6/2023",
+      "blood_type": "A-",
+      "id": 6
+    },
+    {
+      "name": "abdallmo565@gmail.com",
+      "email": "abdallmo565@gmail.com",
+      "condition": "Donor",
+      "phone": "01156869700",
+      "date": "2024-02-15",
+      "city": "cairo",
+      "region": "masr-el-gdeda",
+      "last_date": "10/m",
+      "blood_type": "B-",
+      "id": 7
+    }
+  ],
+  "Email": [
+    {
+      "id": 1,
+      "name": "abdallah",
+      "email": "abdallahmo565@gmail.com",
+      "subject": "hello",
+      "message": " or sit amet turadipi scing elit lobort issim consecte lodign pharetra. Lobort qssim tronsecte diagnosi"
+    },
+    {
+      "name": "abdallah mohamed",
+      "email": "abdallmo565@gmail.com",
+      "subject": "bloodBank ",
+      "message": "I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in someone else's life makes me feel great!\n\n",
+      "id": 2
+    },
+    {
+      "name": "abdallah mohamed",
+      "email": "abdallmo565@gmail.com",
+      "subject": "bloodBank ",
+      "message": "I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in someone else's life makes me feel great!\n\n",
+      "id": 3
+    },
+    {
+      "name": "ahmed mohamed",
+      "email": "abdallmo565@gmail.com",
+      "subject": "thank blood Buddies",
+      "message": "I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in someone else's life makes me feel great!\n\n",
+      "id": 4
+    }
+  ],
+  "opinion": [
+    {
+      "id": 1,
+      "title": "Donor Opinion",
+      "pragraph": " I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in  someone else's life makes me feel great!",
+      "img": "/Assets/user_1.png",
+      "name": "Brandon Munson",
+      "posetion": "CTO, Fulcrum Design, USA"
+    },
+    {
+      "id": 2,
+      "title": "Donor Opinion",
+      "pragraph": " I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in  someone else's life makes me feel great!",
+      "img": "/Assets/user_2.png",
+      "name": "Munson Brandon",
+      "posetion": "CTO, Fulcrum Design, USA"
+    },
+    {
+      "id": 3,
+      "title": "Donor Opinion",
+      "pragraph": " I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in  someone else's life makes me feel great!",
+      "img": "/Assets/user_3.png",
+      "name": "Logan Munson",
+      "posetion": "CTO, Fulcrum Design, USA"
+    }
+  ],
+  "campaings": [
+    {
+      "id": 1,
+      "img": "/Assets/post1.png",
+      "date": "14 June, 2018",
+      "title": "Blood Donation Camp",
+      "pragraph": " Lorem ipsum dolor sit amet turadipi scing elit lobort issim consecte lodign pharetra. Lobort qssim tronsecte diagnosis sharetrx mauris gone do.",
+      "time": "10.00 - 3.00",
+      "location": "California, USA",
+      "name": " Deborah Beck",
+      "ditls": "Blood, Save Life"
+    },
+    {
+      "id": 2,
+      "img": "../../Assets/post2.png",
+      "date": "14 June, 2018",
+      "title": "Blood Donation Camp",
+      "pragraph": " Lorem ipsum dolor sit amet turadipi scing elit lobort issim consecte lodign pharetra. Lobort qssim tronsecte diagnosis sharetrx mauris gone do.",
+      "time": "10.00 - 3.00",
+      "location": "California, USA",
+      "name": " Deborah Beck",
+      "ditls": "Blood, Save Life"
+    },
+    {
+      "id": 3,
+      "img": "../../Assets/camp4.png",
+      "date": "14 June, 2018",
+      "title": "Blood Donation Camp",
+      "pragraph": " Lorem ipsum dolor sit amet turadipi scing elit lobort issim consecte lodign pharetra. Lobort qssim tronsecte diagnosis sharetrx mauris gone do.",
+      "time": "10.00 - 3.00",
+      "location": "California, USA",
+      "name": " Deborah Beck",
+      "ditls": "Blood, Save Life"
+    },
+    {
+      "id": 3,
+      "img": "../../Assets/even_1.png",
+      "date": "14 June, 2018",
+      "title": "Blood Donation Camp",
+      "pragraph": " Lorem ipsum dolor sit amet turadipi scing elit lobort issim consecte lodign pharetra. Lobort qssim tronsecte diagnosis sharetrx mauris gone do.",
+      "time": "10.00 - 3.00",
+      "location": "California, USA",
+      "name": " Deborah Beck",
+      "ditls": "Blood, Save Life"
+    }
+  ],
+  "Sponsors_1": [
+    {
+      "id": 5,
+      "img": "/Assets/spons_5.png"
+    },
+    {
+      "id": 6,
+      "img": "/Assets/spons_6.png"
+    },
+    {
+      "id": 1,
+      "img": "/Assets/spons_1.png"
+    },
+    {
+      "id": 2,
+      "img": "/Assets/spons_2.png"
+    },
+    {
+      "id": 3,
+      "img": "/Assets/spons_3.png"
+    },
+    {
+      "id": 4,
+      "img": "/Assets/spons_4.png"
+    }
+  ],
+  "sponsor_2": [
+    {
+      "id": 6,
+      "img": "/Assets/spons_6.png"
+    },
+    {
+      "id": 5,
+      "img": "/Assets/spons_5.png"
+    },
+    {
+      "id": 6,
+      "img": "/Assets/spons_6.png"
+    },
+    {
+      "id": 7,
+      "img": "/Assets/spons_7.png"
+    },
+    {
+      "id": 8,
+      "img": "/Assets/spons_8.png"
+    },
+    {
+      "id": 9,
+      "img": "/Assets/spons_0.png"
+    },
+    {
+      "id": 10,
+      "titlle": "Our Sponsors",
+      "pragraph": "The sponsors who give their valuable amount to fulfill our mission."
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "img": "/Assets/post1.png",
+      "title": "Donating blood connects us all in a soul.",
+      "name": "Deborah Beck",
+      "type": " Relation",
+      "date": "January 19, 2018",
+      "pragraph": "The campaign aims to highlight stories of people whose lives have been saved through blood donation, to motivate regular blood donors to continue giving blood, and motivate people in good health who have never given blood to begin doing so, particularly young people"
+    },
+    {
+      "id": 2,
+      "img": "/Assets/post2.png",
+      "title": "Give Blood and save three lives or even more.",
+      "name": "Deborah Beck",
+      "type": "    Family ",
+      "date": "January 19, 2018",
+      "pragraph": "The campaign aims to highlight stories of people whose lives have been saved through blood donation, to motivate regular blood donors to continue giving blood, and motivate people in good health who have never given blood to begin doing so, particularly young people"
+    },
+    {
+      "id": 3,
+      "img": "/Assets/post3.png",
+      "title": "Why should we donate blood and am I eligible?",
+      "name": "Deborah Beck",
+      "type": " Stress ",
+      "date": "January 19, 2018",
+      "pragraph": "The campaign aims to highlight stories of people whose lives have been saved through blood donation, to motivate regular blood donors to continue giving blood, and motivate people in good health who have never given blood to begin doing so, particularly young people"
+    },
+    {
+      "id": 1,
+      "img": "/Assets/post1.png",
+      "title": "Donating blood connects us all in a soul.",
+      "name": "Deborah Beck",
+      "type": " Relation",
+      "date": "January 19, 2018",
+      "pragraph": "The campaign aims to highlight stories of people whose lives have been saved through blood donation, to motivate regular blood donors to continue giving blood, and motivate people in good health who have never given blood to begin doing so, particularly young people"
+    },
+    {
+      "id": 5,
+      "img": "/Assets/post3.png",
+      "title": "Why should we donate blood and am I eligible?",
+      "name": "Deborah Beck",
+      "type": " Stress ",
+      "date": "January 19, 2018",
+      "pragraph": "The campaign aims to highlight stories of people whose lives have been saved through blood donation, to motivate regular blood donors to continue giving blood, and motivate people in good health who have never given blood to begin doing so, particularly young people"
+    },
+    {
+      "id": 2,
+      "img": "/Assets/post2.png",
+      "title": "Give Blood and save three lives or even more.",
+      "name": "Deborah Beck",
+      "type": "    Family ",
+      "date": "January 19, 2018",
+      "pragraph": "The campaign aims to highlight stories of people whose lives have been saved through blood donation, to motivate regular blood donors to continue giving blood, and motivate people in good health who have never given blood to begin doing so, particularly young people"
+    },
+    {
+      "id": 7,
+      "img": "/Assets/post3.png",
+      "title": "Why should we donate blood and am I eligible?",
+      "name": "Deborah Beck",
+      "type": " Stress ",
+      "date": "January 19, 2018",
+      "pragraph": "The campaign aims to highlight stories of people whose lives have been saved through blood donation, to motivate regular blood donors to continue giving blood, and motivate people in good health who have never given blood to begin doing so, particularly young people"
+    },
+    {
+      "id": 8,
+      "img": "/Assets/post3.png",
+      "title": "Why should we donate blood and am I eligible?",
+      "name": "Deborah Beck",
+      "type": " Stress ",
+      "date": "January 19, 2018",
+      "pragraph": "The campaign aims to highlight stories of people whose lives have been saved through blood donation, to motivate regular blood donors to continue giving blood, and motivate people in good health who have never given blood to begin doing so, particularly young people"
+    },
+    {
+      "id": 2,
+      "img": "/Assets/post2.png",
+      "title": "Give Blood and save three lives or even more.",
+      "name": "Deborah Beck",
+      "type": "    Family ",
+      "date": "January 19, 2018",
+      "pragraph": "The campaign aims to highlight stories of people whose lives have been saved through blood donation, to motivate regular blood donors to continue giving blood, and motivate people in good health who have never given blood to begin doing so, particularly young people"
+    },
+    {
+      "id": 10,
+      "img": "/Assets/post3.png",
+      "title": "Why should we donate blood and am I eligible?",
+      "name": "Deborah Beck",
+      "type": " Stress ",
+      "date": "January 19, 2018",
+      "pragraph": "The campaign aims to highlight stories of people whose lives have been saved through blood donation, to motivate regular blood donors to continue giving blood, and motivate people in good health who have never given blood to begin doing so, particularly young people"
+    },
+    {
+      "id": 11,
+      "img": "/Assets/post3.png",
+      "title": "Why should we donate blood and am I eligible?",
+      "name": "Deborah Beck",
+      "type": " Stress ",
+      "date": "January 19, 2018",
+      "pragraph": "The campaign aims to highlight stories of people whose lives have been saved through blood donation, to motivate regular blood donors to continue giving blood, and motivate people in good health who have never given blood to begin doing so, particularly young people"
+    }
+  ]
+}
