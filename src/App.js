@@ -44,10 +44,10 @@ function App() {
 
 <Routes path="/">
   <Route>
-  <Route index element={<NotLoggedin><HomePage /> </NotLoggedin>
-  <Route path="/ABOUT" element={<NotLoggedin><About /></NotLoggedin>
-  <Route path="/CAMPAIGN" element={<NotLoggedin><Campaingspage/></NotLoggedin>
-  <Route path="SingelCampaing/:campId" element={<NotLoggedin><SingelEvent/> </NotLoggedin> }/>
+  <Route index element={<NotLoggedin><HomePage /> </NotLoggedin> } />
+  <Route path="/ABOUT" element={<NotLoggedin><About /></NotLoggedin>} />
+  <Route path="/CAMPAIGN" element={<NotLoggedin><Campaingspage/></NotLoggedin>}/>
+  <Route path="SingelCampaing/:campId" element={<NotLoggedin> <SingelEvent/> </NotLoggedin> }/>
   <Route path="/BLOG" element={<NotLoggedin><BlogPage/></IsLoggedin>}/> 
   <Route path="datapage/:postId" element={<NotLoggedin><Singelpost /></NotLoggedin>}/>
   <Route path="/CONTACT" element={<NotLoggedin><ContactPage/></NotLoggedin>}/> 
