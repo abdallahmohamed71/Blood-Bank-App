@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Blood-Bank-App/static/css/main.06d5886a.css",
+    "main.js": "/Blood-Bank-App/static/js/main.1b1373f4.js",
+    "static/media/bg33.png": "/Blood-Bank-App/static/media/bg33.f4e892dff339b4e42259.png",
+    "static/media/aa.jpg": "/Blood-Bank-App/static/media/aa.bcb70809fad9eecfb438.jpg",
+    "static/media/eslam.png": "/Blood-Bank-App/static/media/eslam.5084caadd3b62f982e5c.png",
+    "static/media/logo_don.png": "/Blood-Bank-App/static/media/logo_don.77b84d1d77311b3efaa7.png",
+    "static/media/logo2.png": "/Blood-Bank-App/static/media/logo2.ffeb66a83aac93e99d3e.png",
+    "static/media/laila.jpg": "/Blood-Bank-App/static/media/laila.babea01031ff24140fbc.jpg",
+    "static/media/VOLUNTEERS.png": "/Blood-Bank-App/static/media/VOLUNTEERS.aaa5c5a84bdbbe4f1731.png",
+    "static/media/img_vedio.png": "/Blood-Bank-App/static/media/img_vedio.c340b204739d703d82aa.png",
+    "static/media/join.png": "/Blood-Bank-App/static/media/join.e27513238f4067e6d275.png",
+    "static/media/gb2.png": "/Blood-Bank-App/static/media/gb2.8ff764eb4796191f143f.png",
+    "static/media/bg_about.png": "/Blood-Bank-App/static/media/bg_about.f7c88045a77b5445c8a5.png",
+    "static/media/imgopinin.png": "/Blood-Bank-App/static/media/imgopinin.481ce3e467f5eb0d6222.png",
+    "static/media/camp_6.png": "/Blood-Bank-App/static/media/camp_6.58644ff6c63867b65dfd.png",
+    "static/media/bg.png": "/Blood-Bank-App/static/media/bg.b522046e668435f0df3e.png",
+    "static/media/camp_3.png": "/Blood-Bank-App/static/media/camp_3.006a661df25946c3db42.png",
+    "static/media/loader.gif": "/Blood-Bank-App/static/media/loader.206dcf10947b32f4fc32.gif",
+    "static/media/camp_5.png": "/Blood-Bank-App/static/media/camp_5.f096b1f9fe931faae74d.png",
+    "static/media/even_1.png": "/Blood-Bank-App/static/media/even_1.c4fc69e7aa8e6aa04bfd.png",
+    "static/media/eroe.webp": "/Blood-Bank-App/static/media/eroe.eed9de2404994056b457.webp",
+    "static/media/camp_2.png": "/Blood-Bank-App/static/media/camp_2.48c66664d63123c5e9eb.png",
+    "static/media/camp_4.png": "/Blood-Bank-App/static/media/camp_4.79a9662ab7ce0650a4ac.png",
+    "static/media/camp_1.png": "/Blood-Bank-App/static/media/camp_1.5cc60b2f7d3ce0d8bc8c.png",
+    "static/media/pattern_1.webp": "/Blood-Bank-App/static/media/pattern_1.6b83b5d964457d48a6e4.webp",
+    "index.html": "/Blood-Bank-App/index.html",
+    "main.06d5886a.css.map": "/Blood-Bank-App/static/css/main.06d5886a.css.map",
+    "main.1b1373f4.js.map": "/Blood-Bank-App/static/js/main.1b1373f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d5886a.css",
+    "static/js/main.1b1373f4.js"
+  ]
+}
