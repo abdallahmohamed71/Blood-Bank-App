@@ -44,16 +44,16 @@ function App() {
 
 <Routes path="/">
   <Route>
-  <Route index element={<HomePage /> 
-  <Route path="/ABOUT" element={<About />
-  <Route path="/CAMPAIGN" element={<Campaingspage/>
-  <Route path="SingelCampaing/:campId" element={<IsLoggedin><SingelEvent/> </IsLoggedin> }/>
-  <Route path="/BLOG" element={<IsLoggedin><BlogPage/></IsLoggedin>}/> 
-  <Route path="datapage/:postId" element={<IsLoggedin><Singelpost /></IsLoggedin>}/>
-  <Route path="/CONTACT" element={<IsLoggedin><ContactPage/></IsLoggedin>}/> 
-  <Route path="/DashBoard" element={<IsLoggedin> <DashBoard/></IsLoggedin> }/> 
-  <Route path="/Login" element={<NotLoggedin><Login /></NotLoggedin> }/> 
-  <Route path="/Register" element={<NotLoggedin><Register /></NotLoggedin> }/>
+  <Route index element={<NotLoggedin><HomePage /> </NotLoggedin>
+  <Route path="/ABOUT" element={<NotLoggedin><About /></NotLoggedin>
+  <Route path="/CAMPAIGN" element={<NotLoggedin><Campaingspage/></NotLoggedin>
+  <Route path="SingelCampaing/:campId" element={<NotLoggedin><SingelEvent/> </NotLoggedin> }/>
+  <Route path="/BLOG" element={<NotLoggedin><BlogPage/></IsLoggedin>}/> 
+  <Route path="datapage/:postId" element={<NotLoggedin><Singelpost /></NotLoggedin>}/>
+  <Route path="/CONTACT" element={<NotLoggedin><ContactPage/></NotLoggedin>}/> 
+  <Route path="/DashBoard" element={<NotLoggedin> <DashBoard/></NotLoggedin> }/> 
+  // <Route path="/Login" element={<NotLoggedin><Login /></NotLoggedin> }/> 
+  // <Route path="/Register" element={<NotLoggedin><Register /></NotLoggedin> }/>
   
   <Route path="*" element={<Eror/>}> </Route>
   </Route>
