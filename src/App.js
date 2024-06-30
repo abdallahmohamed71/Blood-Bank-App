@@ -44,9 +44,9 @@ function App() {
 
 <Routes path="/">
   <Route>
-  <Route index element={<IsLoggedin>  <HomePage /> </IsLoggedin>}/> 
-  <Route path="/ABOUT" element={<IsLoggedin> <About /></IsLoggedin> }/> 
-  <Route path="/CAMPAIGN" element={<IsLoggedin><Campaingspage/> </IsLoggedin> }/>
+  <Route index element={<HomePage /> 
+  <Route path="/ABOUT" element={<About />
+  <Route path="/CAMPAIGN" element={<Campaingspage/>
   <Route path="SingelCampaing/:campId" element={<IsLoggedin><SingelEvent/> </IsLoggedin> }/>
   <Route path="/BLOG" element={<IsLoggedin><BlogPage/></IsLoggedin>}/> 
   <Route path="datapage/:postId" element={<IsLoggedin><Singelpost /></IsLoggedin>}/>
