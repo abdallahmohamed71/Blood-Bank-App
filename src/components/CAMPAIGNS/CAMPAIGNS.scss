@@ -1,0 +1,149 @@
+#CAMPAIGNS{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-start;
+//    min-height: 40vh;
+   padding: 4rem 0;
+   a{
+    text-decoration: none;
+   }
+.CAMPAIGNS{
+    padding: 0 8rem;
+}
+.info_CAMPAIGNS{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 100%;
+    padding: 0 2rem;    
+    margin-top: 1rem;
+   
+    h2{
+        color: #555555;
+        font-size: 3rem;
+        font-weight: 700;
+
+    }
+    span{
+        width: 72px;
+        height: 2px;
+        margin-top: 0px;
+        position: relative;
+        top: -3px;
+        background: #EF3D32;
+    }
+    p{
+        padding: 2rem 0;
+        letter-spacing: 1px;
+        font-size: 1.3rem;
+        color: #555555;
+    }
+    a{
+        background-color: #EF3D32;
+        color: white;
+        font-size: 1.2rem;
+        font-weight: 700;
+        padding: 1rem;
+    }
+    a:hover{
+        background-color: #555555;
+    }
+
+}
+  
+#swiperCamp  .swiper-pagination{
+    justify-content: center;
+}
+}
+.even_camp{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    justify-content: space-between;
+    align-items: flex-start;
+    // padding: 1rem;
+    // height: 100%;
+    background: #F8F9FA;
+    color: #555555;
+margin-top: 1rem;
+    .img_CAMPAIGNS{
+        img{
+            max-width: 100%;
+            height: 100%;
+      
+        }
+    }
+    .content_CAMPAIGNS{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        height: 100%;
+        padding: 0 1rem ;
+        a,i,div{
+            color: #555555;
+            font-size: 0.9rem;
+        }
+        a:hover,i:hover{
+            color: #EF3D32;
+        }
+        svg{
+            padding-right: 0.5rem;
+        }
+        h4{
+            padding: 1rem 0;
+        }
+        div{
+            font-size: 1rem;
+            // letter-spacing: 1px;
+            padding: 1rem 0;
+
+        }
+        div{
+            a{
+                padding-right: 0.5rem;
+            }
+        }
+    
+    }
+}
+.even_camp:hover{
+    border: 0px solid transparent;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.07);
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    -o-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+#swiperCamp{
+    display: flex;
+    .swiper-wrapper{
+        // height:auto;
+    }
+    .swiper-button-prev:after,.swiper-button-next:after{
+        color: white !important; 
+        font-size: 0.8rem !important;
+        font-weight: 700;
+        background-color: gray;
+        padding: 1rem;
+        border-radius: 50%;
+    }
+
+}
+#Swip_slid{
+    display: flex;
+}
+@media screen and (max-width: 992px){
+    #CAMPAIGNS .info_CAMPAIGNS {
+        // padding: 2rem 0;
+    }
+    .swiper-button-prev:after,.swiper-button-next:after{
+        display: none;
+    }
+}

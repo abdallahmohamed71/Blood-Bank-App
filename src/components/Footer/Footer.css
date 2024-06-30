@@ -1,0 +1,212 @@
+footer {
+    position: relative;
+    overflow: hidden;
+    color: #FFFFFF;
+    margin-top: 0px;
+}
+.footer-widget-area-bg {
+    background: #1a1a1a;
+}
+
+.footer-widget-area {
+    padding: 100px 0 80px 0;
+    background: #1a1a1a;
+    margin: 0;
+}
+.about-footer {
+    border-bottom: 1px solid #2C2C2C;
+    margin-bottom: 60px;
+    padding-bottom: 50px;
+}
+.about-footer div img{
+    max-width: 100%;
+}
+footer p {
+    color: #FFFFFF;
+}
+footer a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+p {
+    font: 16px/28px 'Poppins', sans-serif;
+    /* color: #333333; */
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    margin: 0 0 12px;
+    padding: 0;
+}
+.about-footer div p{
+    font: 16px/28px 'Poppins', sans-serif;
+    color:white;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    margin: 0 0 12px;
+    padding: 0;
+}
+.footer-widget-area .footer-widget-header h3 {
+    position: relative;
+    font-size: 24px;
+    margin-bottom: 24px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.03em;
+    font-weight: 500;
+    display: inline-block;
+    color: #FFFFFF;
+}
+.footer-widget-area .textwidget {
+    clear: both;
+}
+.footer-widget-area .fa-contact {
+    display: inline-block;
+    text-align: center;
+    width: 12px;
+    height: 12px;
+    color: #f1534a;
+    padding: 6px 6px 6px 0;
+    margin-right: 6px;
+    position: absolute;
+}
+
+ul, li {
+    list-style-type: none;
+}
+ul li a svg{
+    padding-right: 0.5rem;
+    color: #f1534a;
+} 
+ul li a span{
+    padding-left: 0.5rem;
+}
+ul li a span:hover{
+    color: #f1534a;
+}
+.footer-widget-area .footer-useful-links li {
+    margin-bottom: 8px;
+    width: 50%;
+    float: left;
+}
+
+.footer-widget-area li {
+    line-height: 32px;
+}
+.footer-widget-area .fa-footer {
+    display: inline;
+    text-align: center;
+    width: 12px;
+    height: 12px;
+    color: #f1534a;
+    padding: 4px 6px 6px 0;
+    margin-right: 0px;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.footer-widget-area .footer-subscription .btn_EMAIL {
+    background: #444444;
+    border: 0 solid #CCCCCC;
+    border-radius: 0;
+    height: 48px;
+    color: #FFFFFF;
+    outline: 0;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+button, input, select, textarea {
+    margin: 0;
+}
+input, select {
+    vertical-align: middle;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+input {
+    line-height: normal;
+}
+.footer-widget-area .footer-subscription .btn_Subscribe {
+    background: #EF3D32;
+    border: 0 solid #CCCCCC;
+    color: #FFFFFF;
+    height: 42px;
+    letter-spacing: 2px;
+    margin-top: 6px;
+    padding: 0 18px;
+    text-transform: uppercase;
+}
+
+input{
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    -moz-box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    outline: 0;
+}
+.footer-contents {
+    background: #1b1b1a;
+    border-top: 1px solid #2C2C2C;
+    padding: 28px 0 20px 0;
+}
+.footer_contact{
+    display: flex;
+    /* padding-left: 0.5rem; */
+}
+.footer_contact p{
+    padding-left: 1rem;
+
+}
+.footer_contact svg{
+    
+    color: #f1534a;
+}
+.footer_contact a:hover{
+    color: #f1534a !important;
+}
+.btn_EMAIL{
+    width: 100%;
+    padding:0 1rem;
+    color: black;
+    font-weight: 500;
+}
+.Subscribe_now{
+ /* background-color: #f1534a !; */
+ border: 0;
+ outline: 0;
+ margin-top: 1rem;
+}
+.footer-useful-as{
+    padding-left: 0 !important;
+}

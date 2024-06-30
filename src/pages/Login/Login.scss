@@ -1,0 +1,35 @@
+.login_form{
+  width: 100%;
+  max-width: 30rem;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  padding: 20px;
+  border-radius: 10px;
+  margin: auto;
+  
+  .loginp{
+    outline: 0;
+    padding: 0.8rem;
+    border-radius: 12px;
+    border:  1.5px solid red;
+    font-weight: 600;
+  }
+}
+.logo_login{
+  align-items: center;
+}
+.D_H_Account{
+  p,a{
+    font-weight: 600;
+    color: black;
+  }
+}
+.btn_login{
+  background-color: red;
+  font-weight: 600;
+  outline: 0;
+  border: 0;
+  transition: 1s;
+}
+.btn_login:hover{
+  background-color: rgb(164, 5, 5);
+}

@@ -1,0 +1,17 @@
+.btn_hmada{
+    position: fixed;
+    bottom: 2rem;
+    left: 4rem;
+    z-index: 2000;
+    background-color: red;
+    border: 0;
+    outline: 0;
+   
+    display: flex;
+    align-items: center;
+ svg{
+    font-size: 1rem;
+    padding: 0.5rem;
+    
+ }
+}

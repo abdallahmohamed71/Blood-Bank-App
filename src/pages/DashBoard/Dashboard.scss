@@ -1,0 +1,93 @@
+.Dashbord{
+    display: flex;
+    // height: 100vh;
+
+    background-color: #f6f7fb;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    
+    .Dashhome{
+        // background-color:white;
+    //    width: 20%;
+    padding: 4rem 0;
+        
+    .logo_dash{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        padding:2rem  0;
+     
+    }
+    .navDashbord{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+        align-content: flex-start;
+        align-items: flex-start;
+    a{
+        // width: 0%;
+        text-decoration: none;
+        color: #dbdbdb;
+        font-size: 1.5rem;
+        padding: 0.5rem 1rem;
+        transition:all 1s;
+        
+
+    }
+
+a:hover{
+    // width: 100%;
+    // background-color: white;
+    color: #dc666f;
+    // font-weight: 700;
+    // box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+    }
+ 
+
+}
+.DashMain{
+background-color: white;
+    height: 100vh;
+    padding: 1rem;
+    width: 78%;
+    .row{
+        height: 100%;
+    }
+   
+}
+}
+
+// .active{
+//     width: 100%;
+//     background-color: white;
+//     color: red;
+//     font-weight: 700;
+//     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+// }
+.tabs_dashbord{
+    width: 100%;
+    display: flex;
+    margin-top: 1rem;
+    padding: 2rem 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    button{
+        color: #0b0b0b;
+        font-weight: 650;
+    }
+    button:hover{
+        color: red;
+    }
+}

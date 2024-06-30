@@ -1,0 +1,46 @@
+#NumberDonors{
+    padding: 2rem 0;
+}
+.counter-block-1 {
+    margin: 32px 0;
+    background: #FFFFFF;
+    padding: 24px 24px;
+}
+
+.text-center {
+    text-align: center;
+   
+}
+.counter-block-1 svg {
+    border-radius: 0;
+    font-size: 48px;
+    line-height: 50px;
+    margin: 20px 0;
+    color: #333333;
+    top: 0px;
+    position: relative;
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+}
+.counter-block-1 svg:hover{
+    font-size: 55px;
+    color: #EF3D32;
+}
+.counter-block-1 .counter {
+    display: block;
+    margin-top: 12px;
+    font-size: 32px;
+    color: #EF3D32;
+    font-weight: 600;
+}
+.counter-block-1 h4 {
+    margin-top: 15px;
+    font-weight: 500;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+    letter-spacing: 0.02em;
+    position: relative;
+}

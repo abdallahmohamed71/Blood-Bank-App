@@ -1,0 +1,1091 @@
+{
+  "users": [
+    {
+      "name": "Abdallah mohamed",
+      "email": "abdallmo565@gmail.com",
+      "password": "Aaa112233",
+      "phone": "01156859700",
+      "date": "2024-02-07",
+      "id": 1
+    },
+    {
+      "name": "Abdallah mohamed",
+      "email": "abdallah@gmail.com",
+      "password": "Aa112233",
+      "phone": "01156859700",
+      "date": "2024-02-07",
+      "id": 2,
+      "usertype": "admin"
+    },
+    {
+      "name": "Ahmed mohameed",
+      "email": "Ahmed71@aa.com",
+      "password": "Aa112233",
+      "phone": "1111111111111111111111",
+      "date": "2024-05-22",
+      "id": 3
+    },
+    {
+      "name": "Abdallah mohamed",
+      "email": "Abdallah@gmail.com",
+      "password": "Aa112233",
+      "phone": "011111111111111111111111111111",
+      "date": "2024-06-19",
+      "id": 4,
+      "usertype": "admin"
+    }
+  ],
+  "Donors": [
+    {
+      "name": "Abdallah mohamed",
+      "email": "ad@gmail.com",
+      "condition": "Beneficiary",
+      "phone": "01156859700",
+      "date": "16/12/2023",
+      "city": "cairo",
+      "last_date": "month 10",
+      "blood_type": "A-",
+      "id": 2
+    },
+    {
+      "name": "abdallah",
+      "email": "22esad@gmail.com",
+      "condition": "Donor",
+      "phone": "1111111111",
+      "date": "2024-01-18",
+      "city": "cairo",
+      "region": "masr-el-gdeda",
+      "last_date": "10/asx",
+      "blood_type": "B-",
+      "done": "on",
+      "id": 3
+    },
+    {
+      "name": "Abdallah mohamed",
+      "email": "abdallmo565@gmail.com",
+      "condition": "Donor",
+      "phone": "01156859700",
+      "date": "2024-02-07",
+      "city": "cairo",
+      "region": "masr-el-gdeda",
+      "last_date": "10/6/2023",
+      "blood_type": "A+",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "email": "abdallmo565@gmail.com",
+      "condition": "Donor",
+      "phone": "011111111111111111",
+      "date": "2024-02-19",
+      "city": "cairo",
+      "region": "masr-el-gdeda",
+      "last_date": "10/6/2023",
+      "blood_type": "O+",
+      "id": 5
+    },
+    {
+      "name": "Abdallah mohamed",
+      "email": "abdallmo565@gmail.com",
+      "condition": "Donor",
+      "phone": "01156859700",
+      "date": "2024-02-16",
+      "city": "cairo",
+      "region": "masr-el-gdeda",
+      "last_date": "10/6/2023",
+      "blood_type": "A-",
+      "id": 6
+    },
+    {
+      "name": "abdallmo565@gmail.com",
+      "email": "abdallmo565@gmail.com",
+      "condition": "Donor",
+      "phone": "01156869700",
+      "date": "2024-02-15",
+      "city": "cairo",
+      "region": "masr-el-gdeda",
+      "last_date": "10/m",
+      "blood_type": "B-",
+      "id": 7
+    },
+    {
+      "name": "mhammed emam",
+      "email": "emammohammed166@gmail.com",
+      "condition": "Donor",
+      "phone": "010600828776",
+      "date": "2002-10-01",
+      "city": "cairo",
+      "region": "masr-el-gdeda",
+      "last_date": "01/3/2023",
+      "blood_type": "O-",
+      "id": 8
+    },
+    {
+      "name": "Abdallah",
+      "email": "Abdallah@gmail.com",
+      "condition": "Beneficiary",
+      "phone": "01156859700",
+      "date": "2024-03-13",
+      "city": "giza",
+      "region": "maadi",
+      "last_date": "10/6",
+      "blood_type": "B+",
+      "id": 9
+    },
+    {
+      "name": "saasdasdasds",
+      "email": "asdsadas@gmail.com",
+      "condition": "Beneficiary",
+      "phone": "12424234234",
+      "date": "2024-03-13",
+      "city": "giza",
+      "region": "maadi",
+      "last_date": "",
+      "blood_type": "B+",
+      "id": 10
+    },
+    {
+      "name": "Ahmed mohameds",
+      "email": "Aa@emial.com",
+      "condition": "Donor",
+      "phone": "2232321313233",
+      "date": "2024-04-16",
+      "city": "cairo",
+      "region": "El-Khalifa",
+      "last_date": "10/4",
+      "blood_type": "A+",
+      "id": 11
+    },
+    {
+      "name": "mohamed alaa",
+      "email": "01062154667@yahoo.com",
+      "condition": "Donor",
+      "phone": "01062154667",
+      "date": "2002-01-17",
+      "city": "cairo",
+      "region": "Zamalek",
+      "last_date": "17/4",
+      "blood_type": "O+",
+      "id": 12
+    },
+    {
+      "name": "Abdallah mohamed ",
+      "email": "abdallmo565@gmail.com",
+      "condition": "Donor",
+      "phone": "01167777773733",
+      "date": "2024-06-13",
+      "city": "Alsharqia",
+      "region": "Bilbis",
+      "last_date": "10/6",
+      "blood_type": "O+",
+      "id": 13
+    }
+  ],
+  "Email": [
+    {
+      "id": 1,
+      "name": "abdallah",
+      "email": "abdallahmo565@gmail.com",
+      "subject": "hello",
+      "message": " or sit amet turadipi scing elit lobort issim consecte lodign pharetra. Lobort qssim tronsecte diagnosi"
+    },
+    {
+      "name": "abdallah mohamed",
+      "email": "abdallmo565@gmail.com",
+      "subject": "bloodBank ",
+      "message": "I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in someone else's life makes me feel great!\n\n",
+      "id": 2
+    },
+    {
+      "name": "abdallah mohamed",
+      "email": "abdallmo565@gmail.com",
+      "subject": "bloodBank ",
+      "message": "I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in someone else's life makes me feel great!\n\n",
+      "id": 3
+    },
+    {
+      "name": "ahmed mohamed",
+      "email": "abdallmo565@gmail.com",
+      "subject": "thank blood Buddies",
+      "message": "I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in someone else's life makes me feel great!\n\n",
+      "id": 4
+    }
+  ],
+  "opinion": [
+    {
+      "id": 1,
+      "title": "Donor Opinion",
+      "pragraph": " I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in  someone else's life makes me feel great!",
+      "img": "/Assets/user_1.png",
+      "name": "Brandon Munson",
+      "posetion": "CTO, Fulcrum Design, USA"
+    },
+    {
+      "id": 2,
+      "title": "Donor Opinion",
+      "pragraph": " I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in  someone else's life makes me feel great!",
+      "img": "/Assets/user_2.png",
+      "name": "Munson Brandon",
+      "posetion": "CTO, Fulcrum Design, USA"
+    },
+    {
+      "id": 3,
+      "title": "Donor Opinion",
+      "pragraph": " I proudly donate blood on a regular basis because it gives others something they desperately need to survive. Just knowing I can make a difference in  someone else's life makes me feel great!",
+      "img": "/Assets/user_3.png",
+      "name": "Logan Munson",
+      "posetion": "CTO, Fulcrum Design, USA"
+    }
+  ],
+  "campaings": [
+    {
+      "img": "../../Assets/Campain1.jpg",
+      "date": "Monday, March 25, 2024 ",
+      "title": "Under the slogan \"I am an Egyptian donor, I am a permanent donor\"",
+      "pragraph": "The Student Union of the New Cairo Academy (cis - new cairo), in cooperation with the regional  blood bank led by Dr. Amani Abdel Wahab, director of the Cairo branch, organized a blood  donation campaign under the slogan \"I am an Egyptian donor, I am a permanent donor\", at Al\u0002Hussein Mosque in the Fifth Settlement neighborhood, in implementation of the presidential  initiative that supports the continuity of donation campaigns for the blood bank and achieving \nEgypt's vision to reach self-sufficiency in blood bags by 2030.\n ",
+      "time": "10:30",
+      "location": "New Cairo Acadmy",
+      "name": "Amr ibrahim",
+      "ditls": "\"Blood, Save Life",
+      "id": 1
+    },
+    {
+      "img": "../../Assets/campain2.jpg",
+      "date": "6/1/2024",
+      "title": "Vodafone Blood Donation Campaign",
+      "pragraph": "Vodafone Egypt organizes two blood donation campaigns every year in collaboration with blood buddies to raise awareness about the importance of blood donation in saving lives. During these campaigns, Vodafone employees donate blood to help fill the needs of blood banks and emergency cases. In the past years, Vodafone has organized blood donation campaigns in all of its buildings to get all of its employees and the companies it works with to donate blood. These campaigns were organized in cooperation with the National Heart Institute, the Ministry of Health and Population, the National Blood Transfusion Centerand 57357 Children's Cancer Hospital under the supervision of blood buddies, and about 300 bags of blood were donated for critical cases in each campaign.",
+      "time": "10:30",
+      "location": "nasser city",
+      "name": "Abdallah mohamed",
+      "ditls": "Blood, Save Life",
+      "id": 2
+    },
+    {
+      "img": "../../Assets/C3.png",
+      "date": "11/2/2024",
+      "title": " Ain Shams University students and faculty members  donate blood to patients",
+      "pragraph": "The Egyptian Union of Engineering Students of Ain Shams University, in partnership ancooperation with blood buddeis led by Dr. Naglaa Reda, Director of the Center, organized a blood donation campaign, under the patronage of Prof. Dr. Ayman Mohamed Ibrahim, \nPresident of the University, over two days, in support of our patients (oncology - renal \nfailure - thalassemia), within the corridors of the Faculties of \"Engineering\" and \n\"Education\", during which 77 students and faculty members from both faculties donated \ntheir blood as a noble initiative that highlights their dedication to achieve a positive impact \nin the lives of others.",
+      "time": "11:30",
+      "location": " Ain Shams University",
+      "name": "Laila Mahmoud",
+      "ditls": "Blood, Save Life",
+      "id": 3
+    },
+    {
+      "img": "../../Assets/C4.png",
+      "date": "15/3/2024",
+      "title": "Alexandria's youth turnout for blood buddies campaigns",
+      "pragraph": "The National Alliance for Civil and Developmental Work in Alexandria launched a blood donation campaign for the Palestinian brothers, under the title \"One Blood for One Nation,\" with the support of blood buddies and the National Center for Blood Banks at Al\u0002Jazeera Square in the central Manshiya district, in implementation of President Abdel \nFattah El-Sisi's directives to help the Palestinian people and rescue those injured by the \nattack on them.\nThe campaign witnessed a large turnout of young men and women to donate blood in a \ncontribution to rescue those injured in the Gaza Strip as a result of the bombardment of \ncivilians",
+      "time": "12:00",
+      "location": "Alexandria",
+      "name": "Basmla mohamed",
+      "ditls": "Blood, Save Life",
+      "id": 4
+    }
+  ],
+  "Sponsors_1": [
+    {
+      "id": 5,
+      "img": "/Assets/spons_5.png"
+    },
+    {
+      "id": 6,
+      "img": "/Assets/spons_6.png"
+    },
+    {
+      "id": 1,
+      "img": "/Assets/spons_1.png"
+    },
+    {
+      "id": 2,
+      "img": "/Assets/spons_2.png"
+    },
+    {
+      "id": 3,
+      "img": "/Assets/spons_3.png"
+    },
+    {
+      "id": 4,
+      "img": "/Assets/spons_4.png"
+    }
+  ],
+  "sponsor_2": [
+    {
+      "id": 6,
+      "img": "/Assets/spons_6.png"
+    },
+    {
+      "id": 5,
+      "img": "/Assets/spons_5.png"
+    },
+    {
+      "id": 6,
+      "img": "/Assets/spons_6.png"
+    },
+    {
+      "id": 7,
+      "img": "/Assets/spons_7.png"
+    },
+    {
+      "id": 8,
+      "img": "/Assets/spons_8.png"
+    },
+    {
+      "id": 9,
+      "img": "/Assets/spons_0.png"
+    },
+    {
+      "id": 10,
+      "titlle": "Our Sponsors",
+      "pragraph": "The sponsors who give their valuable amount to fulfill our mission."
+    }
+  ],
+  "posts": [
+    {
+      "img": "/Assets/p2.jpg",
+      "title": "Did you know that donating blood saves lives?",
+      "name": "Abdallah moahmed",
+      "type": "DonateBloodSaveLives 🩸❤️",
+      "date": "1/6/2024",
+      "pragraph": "One blood donation can save up to 3 lives! So, come join us for our blood donation drive Together, we can save lives! Benefits of donating blood: Helps save lives. Maintains heart health. Reduces the risk of cancer. Helps regulate blood pressure. Boosts the immune system. Gives you a great feeling of satisfaction.  Are you ready to save a life?",
+      "id": 1
+    },
+    {
+      "img": "/Assets/post10.jpg",
+      "title": " Saving a life",
+      "name": "mohamed emam",
+      "type": "Benfits of blood",
+      "date": "12/5/2024",
+      "pragraph": "The most important benefit of donating blood is saving a life. Urgent surgeries are performed in any case, but elective surgeries are often postponed due to a shortage of blood units",
+      "id": 2
+    },
+    {
+      "img": "/Assets/post7.jpg",
+      "title": "Here are the most important benefits of donating blood",
+      "name": "Mohamed bergass",
+      "type": " Good for your health",
+      "date": "13/5/2024",
+      "pragraph": "Many different studies conducted in the United States and Finland have shown that the incidence of heart attacks and cerebral hemorrhages is much lower in blood donors than in the rest of the population. Regular blood donation reduces the percentage of iron in red blood cells. Iron is a toxic substance that leads to the oxidation of oxygen and thus reduces therisk of developing these diseases.",
+      "id": 3
+    },
+    {
+      "img": "/Assets/post4.jpg",
+      "title": "Gather your friends and family and donate blood together. Make a difference together!",
+      "name": "Fady boles",
+      "type": "Be_a_hero_donate_blood",
+      "date": "15/4/2024",
+      "pragraph": "Donating blood is not just a donation of red liquids, but rather a donation of life and hope. Participate in this humanitarian journey and donate blood today.”",
+      "id": 4
+    },
+    {
+      "img": "/Assets/poat5.jpg",
+      "title": "Ask any questions you have to the Blood Donation Center staff. We are here to help!”",
+      "name": "Gmal abdelnaser",
+      "type": "Your_health_is_good_when_you_help_others",
+      "date": "15/4/2024",
+      "pragraph": "Donating blood does not take a lot of time, but it can have a significant impact on the life of someone in need. Make giving part of your routine.”",
+      "id": 5
+    },
+    {
+      "img": "/Assets/post6.jpg",
+      "title": "Minutes of your time can make a big difference.",
+      "name": "Ahmed gamal",
+      "type": "Join_us_in_saving_lives",
+      "date": "15/3/2024",
+      "pragraph": "Your blood donation can make the difference between life and death for someone in need. Do good and donate blood today.",
+      "id": 6
+    },
+    {
+      "img": "/Assets/post7.jpg",
+      "title": "Donating blood is a humanitarian duty",
+      "name": "Hassan ibrahim",
+      "type": "Every_drop_is_different",
+      "date": "16/3/2024",
+      "pragraph": "Donating blood is not just a donation of red liquids, but rather a donation of life and hope. Participate in this humanitarian journey and donate blood today.",
+      "id": 7
+    },
+    {
+      "img": "/Assets/post3.png",
+      "title": "Good health? Blood Donation!",
+      "name": "Eslam khaled",
+      "type": "Your_health_is_good_when_you_help_others",
+      "date": "10/4/2024",
+      "pragraph": "Your blood donation can bring hope and healing to someone who is suffering. Make a difference in the life of someone in need and donate blood today.”",
+      "id": 8
+    }
+  ],
+  "Subscribe": [
+    {
+      "id": 1,
+      "email": "aaaaa@gmail.com"
+    },
+    {
+      "name": "",
+      "email": "abdallmo565@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "sA@gmail.com",
+      "id": 3
+    }
+  ],
+  "Citys": [
+    {
+      "label": "Cairo",
+      "value": "cairo",
+      "children": [
+        {
+          "label": "Naser city",
+          "value": "naser-city"
+        },
+        {
+          "label": "Masr el gdeda",
+          "value": "masr-el-gdeda"
+        },
+        {
+          "label": "15 May",
+          "value": "15 May"
+        },
+        {
+          "label": "Al Azbakeyah",
+          "value": "Al Azbakeyah"
+        },
+        {
+          "label": "Al Basatin",
+          "value": "Al Basatin"
+        },
+        {
+          "label": "El-Khalifa",
+          "value": "El-Khalifa"
+        },
+        {
+          "label": "El darrasa",
+          "value": "El darrasa"
+        },
+        {
+          "label": "Aldarb Alahmar",
+          "value": "Aldarb Alahmar"
+        },
+        {
+          "label": "Zawya al-Hamra",
+          "value": "Zawya al-Hamra"
+        },
+        {
+          "label": "El-Zaytoun",
+          "value": "El-Zaytoun"
+        },
+        {
+          "label": "Sahel",
+          "value": "Sahel"
+        },
+        {
+          "label": "El Salam",
+          "value": "El Salam"
+        },
+        {
+          "label": "Sayeda Zeinab",
+          "value": "Sayeda Zeinab"
+        },
+        {
+          "label": "El Sharabeya",
+          "value": "El Sharabeya"
+        },
+        {
+          "label": "Ataba",
+          "value": "Ataba"
+        },
+        {
+          "label": "New Cairo",
+          "value": "New Cairo"
+        },
+        {
+          "label": "El Marg",
+          "value": "El Marg"
+        },
+        {
+          "label": "Ezbet el Nakhl",
+          "value": "Ezbet el Nakhl"
+        },
+        {
+          "label": "Matareya",
+          "value": "Matareya"
+        },
+        {
+          "label": "Maadi",
+          "value": "Maadi"
+        },
+        {
+          "label": "Manyal",
+          "value": "Manyal"
+        },
+        {
+          "label": "Mokattam",
+          "value": "Mokattam"
+        },
+        {
+          "label": "Mosky",
+          "value": "Mosky"
+        },
+        {
+          "label": "Nozha",
+          "value": "Nozha"
+        },
+        {
+          "label": "Waily",
+          "value": "Waily"
+        },
+        {
+          "label": "Bab al-Shereia",
+          "value": "Bab al-Shereia"
+        },
+        {
+          "label": "Bolaq",
+          "value": "Bolaq"
+        },
+        {
+          "label": "Garden City",
+          "value": "Garden City"
+        },
+        {
+          "label": "Hadayek El-Kobba",
+          "value": "Hadayek El-Kobba"
+        },
+        {
+          "label": "Helwan",
+          "value": "Helwan"
+        },
+        {
+          "label": "Dar Al Salam'",
+          "value": "Dar Al Salam'"
+        },
+        {
+          "label": "Shubra",
+          "value": "Shubra"
+        },
+        {
+          "label": "Tura",
+          "value": "Tura"
+        },
+        {
+          "label": "Abdeen",
+          "value": "Abdeen"
+        },
+        {
+          "label": "Abaseya",
+          "value": "Abaseya"
+        },
+        {
+          "label": "Ain Shams",
+          "value": "Ain Shams"
+        },
+        {
+          "label": "New Heliopolis",
+          "value": "New Heliopolis"
+        },
+        {
+          "label": "Masr Al Qadima",
+          "value": "Masr Al Qadima"
+        },
+        {
+          "label": "Mansheya Nasir",
+          "value": "Mansheya Nasir"
+        },
+        {
+          "label": "Badr City",
+          "value": "Badr City"
+        },
+        {
+          "label": "Obour City",
+          "value": "Obour City"
+        },
+        {
+          "label": "Cairo Downtown",
+          "value": "Cairo Downtown"
+        },
+        {
+          "label": "Zamalek",
+          "value": "Zamalek"
+        },
+        {
+          "label": "Kasr El Nile",
+          "value": "Kasr El Nile"
+        },
+        {
+          "label": "Rehab",
+          "value": "Rehab"
+        },
+        {
+          "label": "Katameya",
+          "value": "Katameya"
+        },
+        {
+          "label": "Madinty",
+          "value": "Madinty"
+        },
+        {
+          "label": "Rod Alfarag",
+          "value": "Rod Alfarag"
+        },
+        {
+          "label": "Sheraton",
+          "value": "Sheraton"
+        },
+        {
+          "label": "El-Gamaleya",
+          "value": "El-Gamaleya"
+        },
+        {
+          "label": "10th of Ramadan City ",
+          "value": "10th of Ramadan City"
+        },
+        {
+          "label": "Helmeyat Alzaytoun",
+          "value": "Helmeyat Alzaytoun"
+        },
+        {
+          "label": "New Nozha",
+          "value": "New Nozha"
+        },
+        {
+          "label": "Capital New",
+          "value": "Capital New"
+        }
+      ]
+    },
+    {
+      "label": "Qalyubia",
+      "value": "Qalyubia",
+      "children": [
+        {
+          "label": "Banha",
+          "value": "Banha"
+        },
+        {
+          "label": "Benha Al Asal",
+          "value": "Benha Al Asal"
+        },
+        {
+          "label": "Qalyub",
+          "value": "Qalyub"
+        },
+        {
+          "label": "Shubra Al-Khayyam",
+          "value": "Shubra Al-Khayyam"
+        },
+        {
+          "label": "Al-Qanater Charity",
+          "value": "Al-Qanater Charity"
+        },
+        {
+          "label": "Ezbet Shalqan",
+          "value": "Ezbet Shalqan"
+        },
+        {
+          "label": "Khanqah",
+          "value": "Khanqah"
+        },
+        {
+          "label": "Syracuse",
+          "value": "Syracuse"
+        },
+        {
+          "label": "Kafr Shukr",
+          "value": "Kafr Shukr"
+        },
+        {
+          "label": "Toukh",
+          "value": "Toukh"
+        },
+        {
+          "label": "Urban",
+          "value": "Urban"
+        },
+        {
+          "label": "Ain Shams",
+          "value": "Ain Shams"
+        },
+        {
+          "label": "Shebin",
+          "value": "Shebin"
+        },
+        {
+          "label": "Shebin Al-Qanater",
+          "value": "Shebin Al-Qanater"
+        }
+      ]
+    },
+    {
+      "label": "Alexandria",
+      "value": "Alexandria",
+      "children": [
+        {
+          "label": "Al-Ajami",
+          "value": "Al-Ajami"
+        },
+        {
+          "label": "Al-Ameriyah",
+          "value": "Al-Ameriyah"
+        },
+        {
+          "label": "Montazah",
+          "value": "Montazah"
+        },
+        {
+          "label": "Burj Al Arab",
+          "value": "Burj Al Arab"
+        },
+        {
+          "label": "New Amriya",
+          "value": "New Amriya"
+        },
+        {
+          "label": "Abu qir",
+          "value": "Abu qir"
+        },
+        {
+          "label": "Almaks",
+          "value": "Almaks"
+        },
+        {
+          "label": "Almandara",
+          "value": "Almandara"
+        },
+        {
+          "label": "Alwardian",
+          "value": "Alwardian"
+        },
+        {
+          "label": " zizinia",
+          "value": " zizinia"
+        },
+        {
+          "label": "Sayidi Bashar",
+          "value": "Sayidi Bashar"
+        },
+        {
+          "label": "Sayidi jabir",
+          "value": "Sayidi jabir"
+        },
+        {
+          "label": " kamb shizar",
+          "value": " kamb shizar"
+        }
+      ]
+    },
+    {
+      "label": "Alsharqia",
+      "value": "Alsharqia",
+      "children": [
+        {
+          "label": "Abu Hamaad",
+          "value": "Abu Hamaad"
+        },
+        {
+          "label": "Abu Kabir",
+          "value": "Abu Kabir"
+        },
+        {
+          "label": "Awalid Saqr",
+          "value": "Awalid Saqr"
+        },
+        {
+          "label": "A'Iilbirahimia",
+          "value": "A'Iilbirahimia"
+        },
+        {
+          "label": "Alhusaynia",
+          "value": "Alhusaynia"
+        },
+        {
+          "label": " Alzaqaziq",
+          "value": "Alzaqaziq"
+        },
+        {
+          "label": " Alsaalihiat Aljadida",
+          "value": "Alsaalihiat Aljadida"
+        },
+        {
+          "label": "Aleashir Min Ramadan",
+          "value": "Aleashir Min Ramadan"
+        },
+        {
+          "label": "Alqarin",
+          "value": "Alqarin"
+        },
+        {
+          "label": "Alqanayat",
+          "value": "Alqanayat"
+        },
+        {
+          "label": "Bilbis",
+          "value": "Bilbis"
+        },
+        {
+          "label": "Dirb Najm",
+          "value": "Dirb Najm"
+        },
+        {
+          "label": "Faqus",
+          "value": "Faqus"
+        },
+        {
+          "label": "Kafr Saqr",
+          "value": "Kafr Saqr"
+        },
+        {
+          "label": "Mashtawl Alsuwq",
+          "value": "Mashtawl Alsuwq"
+        },
+        {
+          "label": "Minyah Alqam",
+          "value": "Minyah Alqam"
+        },
+        {
+          "label": "Hahyaa",
+          "value": "Hahyaa"
+        }
+      ]
+    },
+    {
+      "label": "Aliasmaeilia",
+      "value": "Aliasmaeilia",
+      "children": [
+        {
+          "label": "Abusuir",
+          "value": "Abusuir"
+        },
+        {
+          "label": "Altalu Alkabir",
+          "value": "Altalu Alkabir"
+        },
+        {
+          "label": "Alqasaasin",
+          "value": "Alqasaasin"
+        },
+        {
+          "label": "Slqantarat Sharq",
+          "value": "Slqantarat Sharq"
+        },
+        {
+          "label": "Alqantarat Gharb",
+          "value": "Alqantarat Gharb"
+        },
+        {
+          "label": "Fayd ",
+          "value": "Fayd"
+        },
+        {
+          "label": "Madinat a'iilsimaeilia",
+          "value": "Madinat a'iilsimaeilia"
+        }
+      ]
+    },
+    {
+      "label": "Almanufia",
+      "value": "Almanufia",
+      "children": [
+        {
+          "label": "Ashmun",
+          "value": "Ashmun"
+        },
+        {
+          "label": "Albajur",
+          "value": "Albajur"
+        },
+        {
+          "label": "Alsaadat",
+          "value": "Alsaadat"
+        },
+        {
+          "label": "Alshuhada",
+          "value": "Alshuhada"
+        },
+        {
+          "label": "Barakat Alsabe",
+          "value": "Barakat Alsabe"
+        },
+        {
+          "label": "Tal",
+          "value": "Tal"
+        },
+        {
+          "label": "Sars Alliyan",
+          "value": "Sars Alliyan"
+        },
+        {
+          "label": "Shibin Alkum",
+          "value": "Shibin Alkum"
+        },
+        {
+          "label": "Quaysuna",
+          "value": "Quaysuna"
+        },
+        {
+          "label": "Manuf",
+          "value": "Manuf"
+        }
+      ]
+    },
+    {
+      "label": "Giza",
+      "value": "Giza",
+      "children": [
+        {
+          "label": "6 October",
+          "value": "6 October"
+        },
+        {
+          "label": "Abu Rawash",
+          "value": "Abu Rawash"
+        },
+        {
+          "label": "Al-Liwaa Land",
+          "value": "Al-Liwaa Land"
+        },
+        {
+          "label": "Awesome",
+          "value": "Awesome"
+        },
+        {
+          "label": "Imbaba",
+          "value": "Imbaba"
+        },
+        {
+          "label": "Badrashin",
+          "value": "Badrashin"
+        },
+        {
+          "label": "Barajil",
+          "value": "Barajil"
+        },
+        {
+          "label": "Hawamdiya",
+          "value": "Hawamdiya"
+        },
+        {
+          "label": "Dokki",
+          "value": "Dokki"
+        },
+        {
+          "label": "Sheikh Zayed",
+          "value": "Sheikh Zayed"
+        },
+        {
+          "label": "Grade",
+          "value": "Grade"
+        },
+        {
+          "label": "Agouza",
+          "value": "Agouza"
+        },
+        {
+          "label": "Ayat",
+          "value": "Ayat"
+        },
+        {
+          "label": "Kit Kat",
+          "value": "Kit Kat"
+        },
+        {
+          "label": "Mansouriya",
+          "value": "Mansouriya"
+        },
+        {
+          "label": "Munib",
+          "value": "Munib"
+        },
+        {
+          "label": "Engineers",
+          "value": "Engineers"
+        },
+        {
+          "label": "Pyramid",
+          "value": "Pyramid"
+        },
+        {
+          "label": "Al-Warraq",
+          "value": "Al-Warraq"
+        },
+        {
+          "label": "Bashtil",
+          "value": "Bashtil"
+        },
+        {
+          "label": "Ashield",
+          "value": "Ashield"
+        },
+        {
+          "label": "Dahab Island",
+          "value": "Dahab Island"
+        },
+        {
+          "label": "Oktobe Gardens",
+          "value": "Oktobe Gardens"
+        },
+        {
+          "label": "Al-Ahram Gardens",
+          "value": "Al-Ahram Gardens"
+        },
+        {
+          "label": "Giza district",
+          "value": "Giza district"
+        },
+        {
+          "label": "Dahshur",
+          "value": "Dahshur"
+        },
+        {
+          "label": "Faisal",
+          "value": "Faisal"
+        },
+        {
+          "label": "Kerdasa",
+          "value": "Kerdasa"
+        },
+        {
+          "label": "Mariouteya",
+          "value": "Mariouteya"
+        },
+        {
+          "label": "Manial Shiha",
+          "value": "Manial Shiha"
+        },
+        {
+          "label": "Nahya",
+          "value": "Nahya"
+        }
+      ]
+    },
+    {
+      "label": "Bani Sweif",
+      "value": "Bani Sweif",
+      "children": [
+        {
+          "label": "Ehnasia",
+          "value": "Ehnasia"
+        },
+        {
+          "label": "Fashion",
+          "value": "Fashion"
+        },
+        {
+          "label": "New Beni Suef",
+          "value": "New Beni Suef"
+        },
+        {
+          "label": "Samasta",
+          "value": "Samasta"
+        },
+        {
+          "label": "Beni Suef city",
+          "value": "Beni Suef city"
+        },
+        {
+          "label": "Nasser",
+          "value": "Nasser"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+#CampGallary{
+    min-height: 100vh;
+    background: #FFFFFF !important;
+    padding: 100px 0 100px 0;
+    background: #FFFFFF;
+    .no-img-separator{
+        h2{
+            text-align: center;
+            position: relative;
+            font-size: 42px;
+            line-height: 42px;
+            margin-bottom: 20px;
+            font-family: 'Montserrat', sans-serif;
+            letter-spacing: 0em;
+            font-weight: 700;
+            color: #555555;
+            margin: 0;
+        }
+        span{
+            display: inline-block;
+            width: 2px;
+            height: 32px;
+            background: #EF3D32;
+            margin-top: 12px;
+        }
+         h4 {
+            text-align: center;
+            font-size: 22px;
+            line-height: 32px;
+            font-weight: 400;
+            font-family: 'Montserrat', sans-serif;
+            color: #484848;
+            margin-bottom: 24px;
+            padding: 30px 0 0 0px;
+            word-spacing: 0em;
+            padding: 0;
+        }
+    }
+    .no-padding-gallery .gallery-container {
+        padding: 0px;
+        margin: 0;
+    }
+    .gallery-light-box {
+        display: block;
+        overflow: hidden;
+        position: relative;
+    }
+    a {
+        color: #4E4E4E;
+        text-decoration: none;
+        -webkit-transition: all 0.3s ease-out;
+        -moz-transition: all 0.3s ease-out;
+        -o-transition: all 0.3s ease-out;
+        transition: all 0.3s ease-out;
+    }
+    figure {
+        margin: 0;
+    }
+    .gallery-light-box .gallery-img img {
+        width: 100%;
+        max-width: 100%;
+        display: block;
+        opacity: 1;
+        -webkit-transition: all 0.7s ease-out;
+        -moz-transition: all 0.7s ease-out;
+        -o-transition: all 0.7s ease-out;
+        transition: all 0.7s ease-out;
+    }
+    .gallery-light-box .gallery-img {
+        display: block;
+        position: relative;
+        max-width: 100%;
+        padding: 5px;
+    }
+    
+    img {
+        max-width: 100%;
+    }
+}

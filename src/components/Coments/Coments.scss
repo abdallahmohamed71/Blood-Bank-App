@@ -1,0 +1,72 @@
+.article-author {
+    margin-top: 24px;
+    background: #FFFFFF;
+    padding: 30px;
+    min-height: 100px;
+    padding-bottom: 24px;
+    h4 {
+        font-size: 24px;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        color: #555555;
+        line-height: 36px;
+        margin: 0 0 16px 0;
+    }
+    a {
+        color: #4E4E4E;
+        text-decoration: none;
+        -webkit-transition: all 0.3s ease-out;
+        -moz-transition: all 0.3s ease-out;
+        -o-transition: all 0.3s ease-out;
+        transition: all 0.3s ease-out;
+    }
+    a {
+        background-color: transparent;
+    }
+}
+.Article{
+    display: flex;
+}
+.social-icons{
+    border-top: 1px solid #CCCCCC;
+    clear: both;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.article-author .social-icons a {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #CCCCCC;
+    color: #333333;
+    margin-right: 3px;
+}
+
+.social-icons a {
+    border: 1px solid #CCCCCC;
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 15px;
+    height: 35px;
+    line-height: 33px;
+    margin-right: 10px;
+    position: relative;
+    text-align: center;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+    width: 35px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    cursor: pointer;
+}
+.social-icons a:hover{
+    color: red;
+}

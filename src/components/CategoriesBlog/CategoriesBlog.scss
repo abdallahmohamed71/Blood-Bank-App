@@ -1,0 +1,87 @@
+#CategoriesBlog{
+    padding: 2rem 0;
+    .search{
+        margin-top: 1rem;
+        padding: 1rem;
+        background-color: #F9FAFB;
+        h3{
+            padding:0  1rem;
+        }
+     .div_search{
+        padding:1rem;
+        .inp_search{
+            padding: 1.2rem 0;
+            
+            // border: 1px sol;
+        }
+        .icon_search{
+            color: white;
+            background-color: red;
+
+        }
+     }
+    }
+     .category{
+        margin-top: 2rem;
+        padding: 1rem;
+        background-color: #F9FAFB;
+        li{
+            padding: 1rem ;
+            background-color: #F9FAFB;
+            border: 0;
+            span{
+                color: #fff;
+                background-color: #777 !important;
+            }
+        }
+        li:hover{
+            color: rgb(184, 22, 22);
+        }
+      
+    }
+    .Recent_Posts{
+        margin-top:2rem;
+        padding: 1rem;
+        background-color: #F9FAFB;
+    }
+    li{
+        padding:1rem;
+        background-color: #F9FAFB;
+        border: 0;
+    
+        
+        span{
+            color: #fff;
+            background-color: #777 !important;
+        }
+    }
+    .inf_recent{
+        font-size: 1.2rem;
+    }
+    .inf_recent:hover{
+        color: rgb(184, 22, 22);
+    }
+    
+    p{
+        color: red;
+    }
+
+}
+.Tags{
+    margin-top:2rem;
+    padding: 1rem;
+    background-color: #F9FAFB;
+    h3{
+        padding:0  1rem;
+    }
+    .div_tags{
+        display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 1rem;
+    button{
+        margin-right: 0.5rem;
+    }
+    }
+}

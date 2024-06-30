@@ -1,0 +1,198 @@
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.section-heading-wrapper .text-left p, .section-heading-wrapper .text-left h4 {
+    text-align: left;
+
+}
+.section-secondary-bg {
+    background: #F9FAFB !important;
+}
+
+.section-content-block {
+    padding: 100px 0 100px 0;
+    background: #FFFFFF;
+}
+.section-heading-wrapper {
+    margin-bottom: 32px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.section-heading-wrapper .no-img-separator {
+    clear: both;
+}
+.section-heading-wrapper .text-left h2 {
+    text-align: left;
+    clear: both;
+}
+
+.section-heading-wrapper .no-img-separator h2 {
+    margin-bottom: 0px;
+}
+.section-heading-wrapper h2 {
+    text-align: center;
+    position: relative;
+    font-size: 42px;
+    line-height: 42px;
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0em;
+    font-weight: 700;
+    color: #555555;
+}
+.section-heading-wrapper span.heading-separator-horizontal {
+    width: 72px;
+    height: 2px;
+    margin-top: 0px;
+    position: relative;
+    top: -3px;
+}
+
+.section-heading-wrapper span.heading-separator {
+    display: inline-block;
+    width: 80px;
+    height: 2px;
+    background: #EF3D32;
+    margin-top: 12px;
+}
+.margin-top-48 {
+    margin-top: 48px !important;
+}
+.row:before {
+    display: table;
+    content: " ";
+}
+
+.section-heading-wrapper .no-img-separator h4 {
+    padding: 1rem 0;
+    margin: 0;
+}
+.section-heading-wrapper p, .section-heading-wrapper h4 {
+    text-align: center;
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    color: #484848;
+    margin-bottom: 24px;
+    padding: 30px 0 0 0px;
+    word-spacing: 0em;
+}
+
+
+
+
+
+
+
+
+
+
+
+.event-layout-1 {
+    clear: both;
+    padding: 0;
+    margin-bottom: 32px;
+    background: #F8F9FA;
+}
+
+// .theme-custom-box-shadow {
+//     border: 0px solid transparent;
+//     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.07);
+//     -webkit-transition: all 0.2s ease-out;
+//     -moz-transition: all 0.2s ease-out;
+//     -o-transition: all 0.2s ease-out;
+//     transition: all 0.2s ease-out;
+// }
+// .event-layout-1 {
+//     display: flex;
+// }
+.campaainHome{
+    display: flex;
+    @media (max-width:574px) {
+        flex-direction: column;
+    }
+    figure {
+        width: 200px;
+        flex-shrink: 0;
+        @media (max-width:574px) {
+            width: 100%;
+            img {
+                width: 100%;
+            }
+        }
+
+    }
+}
+.event-layout-1 .event-img ,.event-info{
+    // float: left;
+    // margin: 0;
+    // max-width: 100%;
+    // height: 100%;
+}
+.event-layout-1 .event-img a {
+    clear: both;
+    width: 100%;
+}
+a {
+    color: #4E4E4E;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+.event-layout-1 .event-img a img {
+    display: block;
+    object-fit: cover;
+}
+.event-layout-1 .event-info {
+    margin-top: 0;
+    overflow: hidden;
+    padding: 24px 24px;
+}
+.event-layout-1 .event-info .event-date {
+    margin-top: 24px;
+    font-size: 14px;
+}
+.event-layout-1 .event-info i {
+    color: #EF3D32;
+    margin-right: 5px;
+    font-size: 18px;
+}
+.event-layout-1 .event-info h4 {
+    margin: 12px 0 12px 0;
+    font-weight: 500;
+}
+
+h4 {
+    font-size: 24px;
+}
+.event-layout-1 .event-info .event-time {
+    margin-top: 24px;
+    font-size: 14px;
+}
+.event-layout-1 .event-info .event-time a {
+    margin-right: 12px;
+}
+.event-layout-1 .event-info .event-time a:last-child {
+    margin-right: 0;
+}
+
+.event-layout-1 .event-info .event-time a {
+    margin-right: 12px;
+}
+.event-layout-1 .event-info i {
+    color: #EF3D32;
+    margin-right: 5px;
+    font-size: 18px;
+}
+.theme-custom-box-shadow:hover {
+    border: 0px solid transparent;
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.05);
+}

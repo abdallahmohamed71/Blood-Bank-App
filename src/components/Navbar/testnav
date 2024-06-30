@@ -1,0 +1,47 @@
+//  return (
+
+//         <nav>
+//             <div className='logoDiv'>
+//                 <img src={Logo}  alt="" />
+//             </div>
+//             <div className='navDiv'>
+//               <ul>
+
+//                 {Auth.isAuth  ? (<Fragment>
+//                   <>
+//                   <li><NavLink to='/'>Home</NavLink></li>
+//                 <li><NavLink to='/About'>About</NavLink></li>
+//                 <li><NavLink to='/Shop'>Shop</NavLink></li>
+//                 <li><NavLink to='/Blog'>Blog</NavLink></li>
+//                 <li><NavLink to='/Contact'>Contact</NavLink></li>
+//                   </>
+
+//                     <li> <LogoutButton/>  </li></Fragment>) :
+//                 (  <>
+//                        <li><NavLink to='/Login'>Login</NavLink></li>
+//                        {/* <li><NavLink to='/Register'>Register</NavLink></li> */}
+//                    </>
+//                )}
+
+//               </ul>
+//             </div>
+//             <div className='barsNamv'>
+//             <FontAwesomeIcon icon={faBars} />
+//             </div>
+//         </nav>
+//   );
+// }
+
+{
+  /* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
+              <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.2">
+                Another action
+              </NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+              <NavDropdown.Divider />
+              <NavDropdown.Item href="#action/3.4">
+                Separated link
+              </NavDropdown.Item>
+            </NavDropdown> */
+}

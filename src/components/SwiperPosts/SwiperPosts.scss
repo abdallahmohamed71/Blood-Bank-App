@@ -1,0 +1,48 @@
+#Swioer_posts{
+     padding: 2rem 0;
+     .posts{
+        padding: 2rem;
+        background: #F9FAFB;
+        img{
+            width: 100%;
+        }
+        h2{
+            margin-top: 1rem;
+            transition: 1s;
+        }
+        h2:hover{
+            color: rgb(138, 10, 10);
+        }
+        .ditls_post{
+            margin-top: 1rem;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            flex-wrap: wrap;
+            p{
+                padding-right: 0.5rem;
+            }
+            .rel:hover{
+                color: rgb(138, 10, 10);
+            }
+        }
+     }
+}
+.row{
+    margin: 0;
+}
+.pagnaition{
+    margin: 1rem 0 ;
+    text-align: center;
+    button{
+        margin:0 5px;
+    }
+    // button{
+    //     padding: 1rem;
+    //     // font-size: 1rem;
+    //     font-weight: 600;
+    //     margin:0 0.3rem;
+
+        
+    // }
+}
